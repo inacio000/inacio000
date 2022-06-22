@@ -1,12 +1,12 @@
-### Hello world! Eu sou o Inácio Raimundo 👋
-### Привет мир! Меня зовут Раймунду Инасиу 👋
-##
+  ## Hello world! Eu sou o Inácio Raimundo 👋
+  ## Привет мир! Меня зовут Раймунду Инасиу 👋
+  ##
   - 🌱 I'm learning Python
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/inacio000">
   <img height="150em" width="400" src="https://github-readme-stats.vercel.app/api?username=inacio000&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inacio000&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inacio000&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <div style="display: inline_block"><br>
