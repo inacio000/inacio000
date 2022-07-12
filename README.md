@@ -1,7 +1,7 @@
 # Hello world! 👋
 ### My name is Inacio Raimundo 😉
   
-- 🌱 I'm learning Python
+- 🌱 I'm learning Python | Django | HTML | CSS
 <div align="center">
   <a href="https://github.com/inacio000">
   <img height="150em" width="400" src="https://github-readme-stats.vercel.app/api?username=inacio000&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
