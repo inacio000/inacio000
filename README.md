@@ -7,7 +7,7 @@
 
 - Passionate about learning in general, especially on the Web.
 
-- Computer Science Student.
+- Computer science student at Nizhny Novgorod Technical University (Russia).
   
 > I'm learning every day 🌱 👨🏽‍💻
 
