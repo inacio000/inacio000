@@ -2,7 +2,6 @@
 ### My name is Inacio Raimundo 😉
 
 
-
 - I'm a junior web developer (focused on front-end).
 
 - Passionate about learning in general, especially on the Web.
