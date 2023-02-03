@@ -1,14 +1,8 @@
 # Hello world! 👋
 ### My name is Inacio Raimundo 😉
-
-
-- I'm a junior web developer (focused on front-end).
-
-- Passionate about learning in general, especially on the Web.
-
-- Computer science student at Nizhny Novgorod Technical University (Russia).
   
 > I'm learning every day 🌱 👨🏽‍💻
+- Focused on front-end development.
 
 <div align="center">
   <a href="https://github.com/inacio000">
