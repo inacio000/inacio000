@@ -21,7 +21,7 @@
  <img align="center" alt="IMR-TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  <img align="center" alt="IMR-GitHub" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
  <img align="center" alt="IMR-Git" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
- <img align="center" alt="IMR-Python" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+<!--  <img align="center" alt="IMR-Python" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  -->
 
 <div>
 
