@@ -23,7 +23,8 @@
  <img align="center" alt="IMR-TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  <img align="center" alt="IMR-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
  <img align="center" alt="IMR-Git" height="60" width="60" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
-  <img align="center" alt="IMR-Git" height="60" width="60" src="https://camo.githubusercontent.com/bdedcbc949feefecc3ff98f7e655ee8151b522e2f32196c648620f5366d909d5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7461696c77696e646373732f7461696c77696e646373732d706c61696e2e737667">
+<!--  <img align="center" alt="IMR-Git" height="60" width="60" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*LvA59wJi3O9jTMQQsw_cRA.png"> -->
+  <img align="center" alt="Next.js" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png">
 <!--  <img align="center" alt="IMR-Python" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  -->
 
 <div>
