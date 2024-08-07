@@ -1,7 +1,7 @@
 # Hello world! 👋
 ### My name is Inacio Raimundo 😉
   
-- I'm a *Frontend Developmer*.
+- I'm a *Frontend Developer*.
   > 🌱 👨🏽‍💻
 
 <div align="center">
