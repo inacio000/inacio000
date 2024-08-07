@@ -1,8 +1,8 @@
 # Hello world! 👋
 ### My name is Inacio Raimundo 😉
   
-> I'm learning every day 🌱 👨🏽‍💻
-- Focused on front-end development.
+- I'm a *Frontend Developmer*.
+  > 🌱 👨🏽‍💻
 
 <div align="center">
   <a href="https://github.com/inacio000">
@@ -24,6 +24,7 @@
  <img align="center" alt="IMR-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
  <img align="center" alt="IMR-Git" height="60" width="60" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png">
 <!--  <img align="center" alt="IMR-Git" height="60" width="60" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*LvA59wJi3O9jTMQQsw_cRA.png"> -->
+  <img align="center" alt="Next.js" height="60" width="80" src="https://github.com/user-attachments/assets/fed732cf-ecb2-4ac8-8fab-402620f90f24">
   <img align="center" alt="Next.js" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png">
 <!--  <img align="center" alt="IMR-Python" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  -->
 
