@@ -38,6 +38,8 @@
   &nbsp;
   [<img src="https://skillicons.dev/icons?i=gitlab" align="center" alt="gitlab" title="gitlab">](https://developer.mozilla.org/pt-BR/docs/Web/gitlab)
   #
+  [<img src="https://skillicons.dev/icons?i=nodejs" align="center" alt="gitlab" title="gitlab">](https://developer.mozilla.org/pt-BR/docs/Web/nodejs)
+  #
    <a href="https://www.linkedin.com/in/inácio-raimundo-06b100209" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    </a>
