@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c2bfc2&height=90&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c2bfc2&duration=2800&pause=3000&size=30&left=true&vCenter=true&width=1000&height=44&lines=Hello+world,+I'm+Inácio+Raimundo!👋🏽;)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c2bfc2&duration=2800&pause=3000&size=30&left=true&vCenter=true&width=1000&height=44&lines=Frontend+Web+Developer+👨🏽‍💻;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c2bfc2&duration=2800&pause=3000&size=30&left=true&vCenter=true&width=1000&height=44&lines=Web+Developer+👨🏽‍💻;)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/inacio000">
